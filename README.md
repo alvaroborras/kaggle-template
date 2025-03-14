@@ -13,7 +13,7 @@
 - Settings that vary from script to script are managed by placing them as `exp/{minor_exp_name}.yaml` in the folder
 (`{major_exp_name}`) where the executable scripts are located.
 - Overwrite at runtime with `exp={minor_exp_name}`
-- Ensure that the experiment can be reproduced using a combination of `{major_exp_name}` and `{minor_exp_name}`.
+- Ensure that the experiment can be reproduced using a combination of `{major_exp_name}` and `{minor_exp_name}`
 
 ## Structure
 ```text
