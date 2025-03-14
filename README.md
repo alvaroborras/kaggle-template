@@ -33,7 +33,7 @@
 └── compose.yaml
 ```
 
-## Docker による環境構築
+## Docker build environment
 
 ```sh
 # build image
